@@ -1,0 +1,1 @@
+Asyncio provides the ability to run multiple tasks concurrently, making it ideal for handling a large number of simultaneous connections, such as those in web servers or network applications. Coroutine-Based: Asyncio code is structured around coroutines, which are functions that can be paused and resumed.
