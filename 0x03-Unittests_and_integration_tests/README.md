@@ -1,0 +1,1 @@
+ unit tests always take results from a single unit, such as a function call, integration tests may aggregate results from various parts and sources. In an integration test, there is no need to mock away parts of the application. You can replace external systems, but the application works in an integrated way
